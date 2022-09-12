@@ -1,0 +1,20 @@
+[1mdiff --git a/belajar.html b/belajar.html[m
+[1mindex a1ffda8..7eb233d 100644[m
+[1m--- a/belajar.html[m
+[1m+++ b/belajar.html[m
+[36m@@ -6,6 +6,6 @@[m
+     <title>Latihan Git</title>[m
+ </head>[m
+ <body>[m
+[31m-    <h1>Latihan Git</h1>[m
+[32m+[m[32m    <h1>Latihan Git - CAMP2022</h1>[m
+ </body>[m
+ </html>[m
+\ No newline at end of file[m
+[1mdiff --git a/ngoding.js b/ngoding.js[m
+[1mindex e69de29..b495f81 100644[m
+[1m--- a/ngoding.js[m
+[1m+++ b/ngoding.js[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mconsole.log('Hello Git')[m
+\ No newline at end of file[m
